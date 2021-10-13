@@ -13,7 +13,7 @@ Below is a snippet of the full dataset:
 
 ![Full_dataset.png](https://github.com/WagnerLisaK/Amazon_Vine_Analysis/blob/main/Resources/Full_dataset.png)
 
-The following steps were taken to find the results of the above questions:
+The following steps were taken to find the answers to the above questions:
   1. The review id's with less than 20 total votes were removed from the dataset.
         * The data is skewed to the right, but reduces the overall skewness (28.3) down to 9.4 by removing the reviews with less than 20 total votes.
         
@@ -37,12 +37,14 @@ The following steps were taken to find the results of the above questions:
 
 Below are the results:
 
-![Results_no_code.png](https://github.com/WagnerLisaK/Amazon_Vine_Analysis/blob/main/Resources/Results_no_code.png)
+![Results.png](https://github.com/WagnerLisaK/Amazon_Vine_Analysis/blob/main/Resources/Results.png)
 
 
 ## Summary
 
-Is there any positivity bias within the Vine (paid) program??  What other analysis could support my findings.
+Based on the skewness, the results from above, and the averages (of star_rating) of the original dataset vs. the subset of data, it appears the Vine paid reviews are positivity biased.
+
+![bias.png](https://github.com/WagnerLisaK/Amazon_Vine_Analysis/blob/main/Resources/bias.png)
 
 ## Reference
 
