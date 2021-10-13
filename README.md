@@ -35,9 +35,9 @@ The following steps were taken to find the answers to the above questions:
   
   4. The percent of 5-star reviews was then calculated per each dataset.
 
-Below are the results:
+        Below are the results:
 
-![Results.png](https://github.com/WagnerLisaK/Amazon_Vine_Analysis/blob/main/Resources/Results.png)
+        ![Results.png](https://github.com/WagnerLisaK/Amazon_Vine_Analysis/blob/main/Resources/Results.png)
 
 
 ## Summary
